@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "broken-union-b5c1",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "d271c2b4-9a66-4214-8f50-68f06ce36b58",
+      "database_name": "laztech"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
